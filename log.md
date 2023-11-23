@@ -19,3 +19,13 @@
 I think i will use this hooks more. Tomorrow i will continue learning hooks. So far everything is going smoothly.
 
 **Link to repo:** [hooks](https://github.com/LongLive16887/react_lessons)
+
+### Day 3: November 22, 2023 
+##### (third day of challenge)
+
+**Today's Progress**: Today i learned  useMemo,useRef and rewrote the marvel project with hooks.
+
+**Thoughts:** Rewrote marvel project is was very dificult for me and interesting, hooks very comfortable for using.
+Tomorrow i will continue learning hooks. So far everything is going smoothly.
+
+**Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
