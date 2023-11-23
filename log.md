@@ -5,7 +5,7 @@
 
 **Today's Progress**: I wrote first pet project with knouckout.js.
 
-**Thoughts:** I wrote it to defend my university presentation, I think it's a very fun framework, but I won't continue writing code in this framework because I'm currently learning React.js. Tomorrow I will start a new chapter of the “hooks” course in udemy.
+**Thoughts:** I wrote it to defend my university presentation, I think it's a very fun framework, but I won't continue writing code in this framework because I'm currently learning React.js. Tomorrow I will start a new chapter of the “hooks” course in UDEMY.
 
 **Link to work:** [Todo list](https://shohastodolist.netlify.app)
 **Link to repo:** [Todo list](https://github.com/LongLive16887/todoList)
@@ -29,3 +29,11 @@ I think i will use this hooks more. Tomorrow i will continue learning hooks. So 
 Tomorrow i will continue learning hooks. So far everything is going smoothly.
 
 **Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
+
+### Day 4: November 23, 2023 
+##### (fourth day of challenge)
+
+**Today's Progress**: Today i learned creating custom hooks.
+**Thoughts:** Today i created my custom hooks. I solve some problems with custom hooks.I liked this theme.
+
+**Link to repo:** [hooks](https://github.com/LongLive16887/react_lessons)
