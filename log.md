@@ -37,3 +37,13 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 **Thoughts:** Today i created my custom hooks. I solve some problems with custom hooks.I liked this theme.
 
 **Link to repo:** [hooks](https://github.com/LongLive16887/react_lessons)
+
+### Day 5: November 24, 2023 
+##### (fifth day of challenge)
+
+**Today's Progress**: Today i continue my marvel project.
+**Thoughts:** Today i created my custom hooks and use in my marvel project. It was hard for me but i coped.
+
+**Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
+
+
