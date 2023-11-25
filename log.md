@@ -46,4 +46,12 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 
 **Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
 
+### Day 6: November 25, 2023 
+##### (sixth day of challenge)
+
+**Today's Progress**: Today i continue my marvel project.
+**Thoughts:** Today i created new component and learned how look batching in my marvel project. I solved some problems in c++ for lessons in university 
+
+**Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
+
 
