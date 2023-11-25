@@ -28,7 +28,7 @@ I think i will use this hooks more. Tomorrow i will continue learning hooks. So 
 **Thoughts:** Rewrote marvel project is was very dificult for me and interesting, hooks very comfortable for using.
 Tomorrow i will continue learning hooks. So far everything is going smoothly.
 
-**Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
+**Link to repo:** [Marvel](https://github.com/LongLive16887/marvel_starter)
 
 ### Day 4: November 23, 2023 
 ##### (fourth day of challenge)
@@ -36,7 +36,7 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 **Today's Progress**: Today i learned creating custom hooks.
 **Thoughts:** Today i created my custom hooks. I solve some problems with custom hooks.I liked this theme.
 
-**Link to repo:** [hooks](https://github.com/LongLive16887/react_lessons)
+**Link to repo:** [custom_hooks](https://github.com/LongLive16887/react_lessons)
 
 ### Day 5: November 24, 2023 
 ##### (fifth day of challenge)
@@ -44,7 +44,7 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 **Today's Progress**: Today i continue my marvel project.
 **Thoughts:** Today i created my custom hooks and use in my marvel project. It was hard for me but i coped.
 
-**Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
+**Link to repo:** [marvel](https://github.com/LongLive16887/marvel_starter)
 
 ### Day 6: November 25, 2023 
 ##### (sixth day of challenge)
@@ -52,6 +52,6 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 **Today's Progress**: Today i continue my marvel project.
 **Thoughts:** Today i created new component and learned how look batching in my marvel project. I solved some problems in c++ for lessons in university 
 
-**Link to repo:** [hooks](https://github.com/LongLive16887/marvel_starter)
+**Link to repo:** [marvel](https://github.com/LongLive16887/marvel_starter)
 
 
