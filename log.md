@@ -66,7 +66,7 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 ##### (eighth day of challenge)
 
 **Today's Progress**: Today i learned React Routers and use in my marvel project.
-**Thoughts:** Today i optimized my marvel project. I knew how React routers are work. Tomorrow i will continue learning in udemy.
+**Thoughts:** Today i optimized my marvel project. I learned how React routers work. Tomorrow i will continue learning in udemy.
 
 **Link to repo:** [marvel](https://github.com/LongLive16887/marvel_starter)
 
