@@ -62,5 +62,13 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 
 **Link to repo:** [first_js](https://github.com/LongLive16887/js_starter)
 
+### Day 8: November 27, 2023 
+##### (eighth day of challenge)
+
+**Today's Progress**: Today i learned React Routers and use in my marvel project.
+**Thoughts:** Today i optimized my marvel project. I knew how React routers are work. Tomorrow i will continue learning in udemy.
+
+**Link to repo:** [marvel](https://github.com/LongLive16887/marvel_starter)
+
 
 
