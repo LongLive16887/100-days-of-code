@@ -70,5 +70,13 @@ Tomorrow i will continue learning hooks. So far everything is going smoothly.
 
 **Link to repo:** [marvel](https://github.com/LongLive16887/marvel_starter)
 
+### Day 9: November 28, 2023 
+##### (eighth day of challenge)
+
+**Today's Progress**: Today i continue my marvel project.
+**Thoughts:** Today I added a 404 page and a single page. I didn't do much today, I was very tired.
+
+**Link to repo:** [marvel](https://github.com/LongLive16887/marvel_starter)
+
 
 
